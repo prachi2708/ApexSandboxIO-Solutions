@@ -1,4 +1,4 @@
-Problem Link URL: https://www.apexsandbox.io/problem/56
+**Problem Link URL:** https://www.apexsandbox.io/problem/56
 
 For this problem, we consider two Contacts as duplicates if they have the same phone number or the same email address.
 
