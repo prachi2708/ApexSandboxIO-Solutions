@@ -1,4 +1,4 @@
-Class Solution{
+public class Solution{
     public Boolean isTypeAccount(sObject record)
     {
     

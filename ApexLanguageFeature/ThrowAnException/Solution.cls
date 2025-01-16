@@ -1,4 +1,4 @@
-Class Solution{
+public class Solution{
     public List<Account> checkAccounts(List<Account> accounts)
 {
     // code here 

@@ -1,4 +1,4 @@
-Class Solution{
+public class Solution{
     public String formatName(String firstName, String lastName) {
         //code here
     

@@ -1,4 +1,4 @@
-Class Solution{
+public class Solution{
     public String divide(Integer a, Integer b){
         //code here
     

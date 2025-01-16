@@ -1,4 +1,4 @@
-Class Solution{
+public class Solution{
 
     public Boolean isTeenager(Integer age) {
         //code here
