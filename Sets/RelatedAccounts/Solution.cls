@@ -2,7 +2,7 @@ public class Solution {
     public Set<Id> accountIds(List<Opportunity> opps) {
         //code here
     
-    Set<Id> associatedAccountIds = new Set<Id>();
+        Set<Id> associatedAccountIds = new Set<Id>();
     
         for(Opportunity op : opps){
             
@@ -13,7 +13,7 @@ public class Solution {
             }
         }
      
-    return associatedAccountIds;
+        return associatedAccountIds;
     
     }
 }
