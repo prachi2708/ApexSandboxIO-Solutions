@@ -1,4 +1,4 @@
-public class solution{
+public class Solution {
     public Set<Id> accountIds(List<Opportunity> opps) {
         //code here
     

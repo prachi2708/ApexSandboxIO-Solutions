@@ -1,4 +1,4 @@
-public class solution{
+public class Solution {
     public Boolean containsDuplicates(List<Integer> nums) {
         //code here
     
