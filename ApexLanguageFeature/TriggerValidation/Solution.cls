@@ -1,0 +1,12 @@
+public class Solution{
+    public void validateInsert(List<Opportunity> opportunities){
+        //code here
+    
+        for(Opportunity opp : opportunities){
+    
+            if(opp.StageName == 'Closed Won' && String.isBlank(opp.Description)){
+              opp.Description.addError('Description should not be empty for Closed Won opportunity.');
+            }
+        }
+    }
+}
