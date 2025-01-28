@@ -1,0 +1,12 @@
+public class Solution{
+    public String evenOrOdd(Integer num) {
+        //code here
+    
+        if(Math.mod(num,2) == 0){
+            return 'even';
+        }
+        else{
+            return 'odd';
+        }
+    }
+}
